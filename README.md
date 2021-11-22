@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/risky-david-kasyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/risky-david-kasyanto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/risky-david-kasyanto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/risky-david-kasyanto" height="30" width="40" /></a>
 <a href="https://web.facebook.com/adheche.bikers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="risky david" height="30" width="40" /></a>
 <a href="https://instagram.com/riskydav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riskydav_" height="30" width="40" /></a>
 </p>
