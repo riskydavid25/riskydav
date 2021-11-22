@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intellegence in Orbit Future Academy**
 
-- 👯 I’m looking to collaborate on [Face Mask Detector](https://github.com/riskydav/OpenCV-FaceMaskDetector)
+- 👯 I’m looking to collaborate on [Github](https://github.com/riskydav)
 
 - 📫 How to reach me **riskydavidkasyanto25@gmail.com**
 
