@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risky David Kasyanto</h1>
-<h3 align="center">A passionate Telecommunication Engineer, Editor and Programmer from Indonesia</h3>
+<h3 align="center">A passionate Telecommunication, IoT, Editor and Programmer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskydav&label=Profile%20views&color=0e75b6&style=flat" alt="riskydav" /> </p>
 
